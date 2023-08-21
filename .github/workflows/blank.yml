@@ -3,32 +3,32 @@ to-help: you understand that you can be happy and successful with out a diploma 
 name: Lovelife34,understanding×sucess=>>
 date: Controls when the workflow will run
 on: august,21,2023\5.pm.eastern=>>
-  Diploma: Triggers the workflow on push or pull 
+Diploma: Triggers the workflow on push 
+sucessful living: triggers the workflow on pull 
 $: request events but only for the 
-  "main": branch
-  push: diploma 
-    branches: [ "main "]
-  pull_request: successful living
-    branches: [ "information" ]
-  ∆: Allows you to run this workflow manually from the Actions tab 
-  workflow_dispatch: living without a diploma 
- A workflow run is made up of one or more jobs that can run: sequentially or in parallel
+main": branch
+push: diploma 
+branches: [ "main "]
+pull_request: successful living
++: ;informational]
+∆: Allows you to run this workflow manually from the Actions tab
+workflow_dispatch: living without a diploma  A workflow run is made up of one or more jobs that can run: sequentially or in parallel
 jobs: goal planning and hands on experience   
- This workflow contains a single job called "build"
-  build: a successful life
- WiFi/mobile: The type of runner that the job will run on
-    runs-on: wifi and mobile networks
+This: workflow contains a single job called "build"
+build: a successful life
+WiFi/mobile: The type of runner that the job will run on
+runs-on: wifi and mobile networks
 √: 3 Steps represent a sequence of tasks that will be executed as part of the job
-    steps: make goals, have a plan, work hands on experience 
+steps: make goals, have a plan, work hands on experience 
 +: $Lovelife34 , so your job can access it
-      - uses: goal planning, time management, budget planning, resources,and research.
- $: echo Hello, world!
-      - name: Run a one-line script
-        run: echo Hello, world!
-  45: Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: minutes
+uses: goal planning, time management, budget planning, resources,and research.
+$: echo Hello, world!
+name: Run a one-line script
+run: echo Hello, world!
+45: Runs a set of commands using the runners shell
+name: Run a multi-line script
+run: minutes
 echo: rely on me
 rely on me:   echo test
-and deploy your project.
+and: deploy your project.
 <<: rely on me
